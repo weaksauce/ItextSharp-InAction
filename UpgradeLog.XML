@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ItextInAction">
+</Property><Property Name="Solution File" Value="D:\_projetos\ItextSharpInAction\ItextInAction.sln">
+</Property><Property Name="Date" Value="segunda-feira, 27 de dezembro de 2010">
+</Property><Property Name="Time" Value="22:41:54">
+</Property></Properties><Event ErrorLevel="0" Project="ItextInAction" Source="ItextInAction.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ItextInAction" Source="ItextInAction.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ItextInAction" Source="ItextInAction.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
